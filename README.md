@@ -1,8 +1,11 @@
 # Projet CryptoShell – Ransomware éducatif en Bash
 
 > **AVERTISSEMENT ÉTHIQUE ET LÉGAL**
-> Ce dépôt a été créé dans un cadre **strictement académique** pour l'étude des mécanismes de logiciels malveillants et le développement de contre-mesures. 
-> Toute utilisation de ces techniques en dehors d'un environnement de laboratoire isolé et autorisé est strictement interdite et illégale. En France, les atteintes aux Systèmes de Traitement Automatisé de Données (STAD) sont punies par le Code pénal (articles 323-1 à 323-8), avec des peines pouvant aller jusqu'à 10 ans d'emprisonnement et 300 000 € d'amende selon la loi LOPMI n° 2023-22. 
+> 
+> Ce dépôt a été créé dans un cadre **strictement académique** pour l'étude des mécanismes de logiciels malveillants et le développement de contre-mesures.
+> 
+> Toute utilisation de ces techniques en dehors d'un environnement de laboratoire isolé et autorisé est strictement interdite et illégale. En France, les atteintes aux Systèmes de Traitement Automatisé de Données (STAD) sont punies par le Code pénal (articles 323-1 à 323-8), avec des peines pouvant aller jusqu'à 10 ans d'emprisonnement et 300 000 € d'amende selon la loi LOPMI n° 2023-22.
+> 
 > **Le code source offensif de ce dépôt a été volontairement désarmé via un garde-fou de sécurité pour empêcher toute exécution accidentelle sur un système réel.**
 
 ### DESCRIPTION ET SCÉNARIO
