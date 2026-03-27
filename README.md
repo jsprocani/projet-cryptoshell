@@ -1,5 +1,7 @@
 # Projet CryptoShell – Ransomware éducatif en Bash
 
+![Note](https://img.shields.io/badge/Validation_Académique-18,5%2F20_(Très_Bien)-2ea44f?style=for-the-badge)
+
 > **AVERTISSEMENT ÉTHIQUE ET LÉGAL**
 > 
 > Ce dépôt a été créé dans un cadre **strictement académique** pour l'étude des mécanismes de logiciels malveillants et le développement de contre-mesures.
